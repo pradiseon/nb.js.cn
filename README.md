@@ -1,2 +1,2 @@
-# nb.js.cn
+# ooo7
  Subdomain Takeover
